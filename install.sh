@@ -1,5 +1,5 @@
 #!/bin/sh
-# All-In-One Install script for Sudo/NodeJS/Yarn/Python/Py3/FFMPEG/J13
+# All-In-One Install script for Sudo/NodeJS/Yarn/Python/Py3/FFMPEG/Java13
 echo -e '\e[31m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■\e[0m'
 echo -e '\e[31mWelcome to Insall-Script made by ShodaDev0081\e[0m'
 echo -e '\e[31m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■\e[0m'
