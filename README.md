@@ -10,7 +10,7 @@ Includes:
     Java v13
     FFMPEG
 
-**Run script**
+## Run script 
 *Make sure you have sudo and git already installed!* (``apt-get install sudo git``)
 
 ``git clone https://github.com/ShodaDev0081/install-script-for-ubuntu-debian && cd install-script-for-ubuntu-debian && chmod +x install.sh && sudo bash install.sh``
