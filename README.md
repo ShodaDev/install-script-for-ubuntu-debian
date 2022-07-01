@@ -18,4 +18,9 @@ Execute install command:
 
 *Sometimes you have to press **Y** and enter to go to the next step, have a look on your ssh console!*
 
-### Credits
+## Credits
+This installscript was made by ShodaDev0081. You are allowed to use it for your own but don't publish it and say that it was made by yourself (aka give credits when you publish it)!
+
+Contact: 
+    Discord: ShodaDev#0081
+    Discord Server: https://discord.gg/BYjVqaDGJ3
