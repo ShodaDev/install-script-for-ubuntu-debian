@@ -15,3 +15,7 @@ Includes:
 
 Execute install command:
 ``git clone https://github.com/ShodaDev0081/install-script-for-ubuntu-debian && cd install-script-for-ubuntu-debian && chmod +x install.sh && sudo bash install.sh``
+
+*Sometimes you have to press **Y** and enter to go to the next step, have a look on your ssh console!*
+
+### Credits
